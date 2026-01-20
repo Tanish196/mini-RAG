@@ -367,5 +367,3 @@ VITE_API_BASE_URL=http://localhost:8000
 - **API Docs:** https://mini-rag-1-i7d0.onrender.com/docs
 
 ---
-
-**Built with transparency, tested with care, ready for evaluation.**
