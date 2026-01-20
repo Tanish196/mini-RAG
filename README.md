@@ -362,11 +362,9 @@ VITE_API_BASE_URL=http://localhost:8000
 
 ## Live Demo & Links
 
-- **Live Frontend:** https://mini-rag-frontend.vercel.app
-- **Live Backend:** https://mini-rag-1-i7d0.onrender.com
+- **Live Frontend:** https://mini-rag-seven.vercel.app/
+- **Live Backend:** https://mini-rag-1-i7d0.onrender.com/
 - **API Docs:** https://mini-rag-1-i7d0.onrender.com/docs
-- **GitHub Repo:** [Add your repo URL]
-- **Resume:** [Add your resume link]
 
 ---
 
